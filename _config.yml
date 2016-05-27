@@ -1,0 +1,28 @@
+name: Unbundl
+favicon: null
+layout_spectrum: 0.06011378741823137
+typography_spectrum: 0.9170434901025146
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.21101857325993478
+  lightness: 0.8310017334297299
+  saturation: 0.873596723889932
+  rhythmicContrast: 0.16794434236362576
+purpose: []
